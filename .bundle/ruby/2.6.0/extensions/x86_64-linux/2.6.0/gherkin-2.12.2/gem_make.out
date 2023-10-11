@@ -1,0 +1,19 @@
+current directory: /home/arturo/Desktop/CC3S2/PC1_CC3S2-master/.bundle/ruby/2.6.0/gems/gherkin-2.12.2/ext/gherkin_lexer_zh_tw
+/home/arturo/.rbenv/versions/2.6.6/bin/ruby extconf.rb
+checking for main() in -lc... yes
+creating Makefile
+
+current directory: /home/arturo/Desktop/CC3S2/PC1_CC3S2-master/.bundle/ruby/2.6.0/gems/gherkin-2.12.2/ext/gherkin_lexer_zh_tw
+make DESTDIR\= sitearchdir\=./.gem.20231010-7143-16prxap sitelibdir\=./.gem.20231010-7143-16prxap clean
+
+current directory: /home/arturo/Desktop/CC3S2/PC1_CC3S2-master/.bundle/ruby/2.6.0/gems/gherkin-2.12.2/ext/gherkin_lexer_zh_tw
+make DESTDIR\= sitearchdir\=./.gem.20231010-7143-16prxap sitelibdir\=./.gem.20231010-7143-16prxap
+compiling gherkin_lexer_zh_tw.c
+linking shared-object gherkin_lexer_zh_tw.so
+
+current directory: /home/arturo/Desktop/CC3S2/PC1_CC3S2-master/.bundle/ruby/2.6.0/gems/gherkin-2.12.2/ext/gherkin_lexer_zh_tw
+make DESTDIR\= sitearchdir\=./.gem.20231010-7143-16prxap sitelibdir\=./.gem.20231010-7143-16prxap install
+/usr/bin/install -c -m 0755 gherkin_lexer_zh_tw.so ./.gem.20231010-7143-16prxap
+
+current directory: /home/arturo/Desktop/CC3S2/PC1_CC3S2-master/.bundle/ruby/2.6.0/gems/gherkin-2.12.2/ext/gherkin_lexer_zh_tw
+make DESTDIR\= sitearchdir\=./.gem.20231010-7143-16prxap sitelibdir\=./.gem.20231010-7143-16prxap clean

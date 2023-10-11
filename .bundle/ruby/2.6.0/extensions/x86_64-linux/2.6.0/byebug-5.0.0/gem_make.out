@@ -1,0 +1,22 @@
+current directory: /home/arturo/Desktop/CC3S2/PC1_CC3S2-master/.bundle/ruby/2.6.0/gems/byebug-5.0.0/ext/byebug
+/home/arturo/.rbenv/versions/2.6.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/arturo/Desktop/CC3S2/PC1_CC3S2-master/.bundle/ruby/2.6.0/gems/byebug-5.0.0/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20231010-7143-aywzf4 sitelibdir\=./.gem.20231010-7143-aywzf4 clean
+
+current directory: /home/arturo/Desktop/CC3S2/PC1_CC3S2-master/.bundle/ruby/2.6.0/gems/byebug-5.0.0/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20231010-7143-aywzf4 sitelibdir\=./.gem.20231010-7143-aywzf4
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/arturo/Desktop/CC3S2/PC1_CC3S2-master/.bundle/ruby/2.6.0/gems/byebug-5.0.0/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20231010-7143-aywzf4 sitelibdir\=./.gem.20231010-7143-aywzf4 install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20231010-7143-aywzf4/byebug
+
+current directory: /home/arturo/Desktop/CC3S2/PC1_CC3S2-master/.bundle/ruby/2.6.0/gems/byebug-5.0.0/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20231010-7143-aywzf4 sitelibdir\=./.gem.20231010-7143-aywzf4 clean
